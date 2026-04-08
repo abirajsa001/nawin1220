@@ -1,4 +1,4 @@
-Preamble
+Preamblesz
 The following agreement governs the rights and responsibilities between you (the "Partner") and the Novalnet AG ("Novalnet") in relation to the cost-free software solutions Service and Support provided by Novalnet, by connecting your e-commerce systems to the payment platform of Novalnet. Services, which Novalnet offers in accordance with a service contract to its partners, are not affected explicitly by this agreement. From this particular agreement, is not explicitly affected the services Novalnet under the contract between the parties to the service contract partners are providing. By installing and using the software, you automatically confirm that you have read this freeware license agreement and agree with it. If you do not agree to these conditions, as a partner, please do not install and use the software.
 
 License
